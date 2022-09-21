@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(186, 112, 186);
+}
+
+h1{
+    margin-left: 200px; ;
+    font-size: 80px;
+}
+.titulo{
+ font-family: 'Times New Roman', Times, serif;   
+ font-size: 90;
+ color: aqua;
+ border: 2px solid rgb(0, 255, 26);
+ text-align: center;
+ text-shadow: 5px 3px 1px black;
+ 
+}
