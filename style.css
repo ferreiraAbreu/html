@@ -1,17 +1,25 @@
-body{
-    background-color: rgb(186, 112, 186);
-}
+<!DOCTYPE html>
+<html>
 
-h1{
-    margin-left: 200px; ;
-    font-size: 80px;
-}
-.titulo{
- font-family: 'Times New Roman', Times, serif;   
- font-size: 90;
- color: aqua;
- border: 2px solid rgb(0, 255, 26);
- text-align: center;
- text-shadow: 5px 3px 1px black;
- 
-}
+<head>
+    <title>meu primeiro html</title> 
+    <link href="style.css" rel="stylesheet">
+    <style>
+
+    </style>
+       
+</head>
+
+<body>
+<h1 class="titulo">Brasil Acima de tudo! </h1>
+<h2 >Vamos Passar </h2>
+<h3>Vamos Passar </h3>
+<h4>Vamos Passar </h4>
+<h5>Vamos Passar </h5>
+<p>Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.</p>
+<a href="https://www.pensador.com/frases/">clique aqui</a> 
+<br/>
+<a href="pag2.html">pag2</a>   
+</body>
+
+</html>
